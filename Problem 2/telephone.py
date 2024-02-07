@@ -1,3 +1,8 @@
+"""
+    Name: Luke Runnels
+    Lab time: February 2, 2024
+"""
+
 def telephone():
     phone_number = int(input())
     ''' Type your code here. '''

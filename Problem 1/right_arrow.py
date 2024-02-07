@@ -1,3 +1,8 @@
+"""
+    Name: Luke Runnels
+    Lab time: February 2, 2024
+"""
+
 def right_arrow():
     base_char = str(input())
     head_char = str(input())

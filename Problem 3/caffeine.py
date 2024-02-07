@@ -1,3 +1,7 @@
+"""
+    Name: Luke Runnels
+    Lab time: February 2, 2024
+"""
 
 def caffeine():
     caffeine_mg = float(input())
